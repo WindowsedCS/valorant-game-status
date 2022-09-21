@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Status Checker.",
+      "script": "node index.js",
+      "vizion": true
+    }
+  ]
+}

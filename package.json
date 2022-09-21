@@ -1,0 +1,32 @@
+{
+  "name": "valorant-game-status",
+  "version": "1.0.0",
+  "description": "查看玩家狀態無需啟動 Valorant 或 Riot Mobile",
+  "engines": {
+    "node": ">= 16"
+  },
+  "main": "index.js",
+  "author": [
+    "Windowsed"
+  ],
+  "private": false,
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindowsedCS/valorant-game-status.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "install": "npm install -save"
+  },
+  "keywords": [
+    "valorant-game-status",
+    "特戰查看玩家狀態顯示",
+    "valorant game presence ",
+    "特戰狀態顯示"
+  ],
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2"
+  }
+}

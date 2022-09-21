@@ -1,0 +1,10 @@
+module.exports = {
+    TOKEN: "TOKEN",
+    RIOT_USERNAME: "RIOT_USERNAME",
+    RIOT_PASSWORD: "RIOT_PASSWORd",
+    UPDATE_EVERY_X_MINUTES : 1,
+    STATUS_BOARD_CHANNEL_ID: "MESSAGEID",
+    STATUS_BOARD_MESSAGE_ID: "MESSAGEID",
+    Status: "STATUS",
+    BANNER_IMAGE_URL: "https://i.imgur.com/KnNHOjI.jpeg"
+}

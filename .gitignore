@@ -1,0 +1,6 @@
+config.js
+aconfig.js
+.env
+node_modules
+.idea
+deploy_commands.js
